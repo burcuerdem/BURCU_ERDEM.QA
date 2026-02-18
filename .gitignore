@@ -10,4 +10,4 @@ target/
 screenshots/
 *.png
 .DS_Store
-.cursor/
+
